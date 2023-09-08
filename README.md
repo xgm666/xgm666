@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><a href="https://github.com/xgm666">✨ XUE GitHub 首页</a></h1>
+  <h1 align="center"><a href="https://github.com/xgm666">✨ XUE's GitHub 首页</a></h1>
 </p>
 
 <p align="center">
