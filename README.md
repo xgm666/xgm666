@@ -24,7 +24,7 @@
 
 ### 💞 我的社交统计
 
-[![GitHub统计](https://stats.justsong.cn/api/github?username=zhang-bcxb&theme=dark&lang=zh-CN)](https://github.com/xgm666)
+[![GitHub统计](https://github.com/xgm666/xgm666)](https://github.com/xgm666)
 [![B站统计](https://stats.justsong.cn/api/bilibili/?id=337439992&theme=dark&lang=zh-CN)](https://space.bilibili.com/451811565?spm_id_from=333.1007.0.0)
 <br>
 
