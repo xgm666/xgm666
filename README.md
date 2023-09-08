@@ -23,9 +23,8 @@
 <br>
 
 ### 💞 我的社交统计
-
-
-### 🔥 GitHub 活跃度
+Blili：<https://space.bilibili.com/451811565?spm_id_from=333.1007.0.0>
+Tiktok:<https://www.douyin.com/user/self?modal_id=7275359919937817856>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xgm666&count_private=true&show_icons=true&theme=dark" />
